@@ -1,0 +1,19 @@
+.navbar{
+   background-color: blueviolet;
+   height: 60px;
+    
+}
+
+.fonts{
+    color: white;
+    margin-right: 30px;
+    width: 120px;
+    border-radius: 8px;
+    text-align: center;
+}
+.fonts:hover{
+    background-color: white;
+    color: blue;
+    border-radius: 8px;
+    
+}
